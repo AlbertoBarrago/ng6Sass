@@ -2,6 +2,6 @@
 
 _step to follow for testing and building_
 
-  `npm i`
-  `gulp serve` to run Webpack's development server
-  `gulp build` to build minified bundle. 
+  -  `npm i`
+  -  `gulp serve` to run Webpack's development server
+  -  `gulp build` to build minified bundle. 
